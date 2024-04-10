@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=harshj3915.harshj3915" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=EAB4F7&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Harsh+Kothari;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=EAB4F7&width=500&height=70&duration=2000&lines=Hi+There!;+I'm+Harsh+Kothari;" />
 </h1>
 
 <h3 align="center">A 2nd year student at VIT,Vellore. I am a Passionate coder with an eye for innovation, transforming ideas into elegant solutions with a keystroke.</h3>
@@ -10,13 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Building up my skills**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **AI/ML, Flutter, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Ask me about **Python, Next.js, Tailwind, React... or anything**
 
  </div>
  
