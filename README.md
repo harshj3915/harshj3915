@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently work  ing on **Building up my skills**
+ 🔭 I’m currently working on **Building up my skills**
  
  🌱 I’m currently learning **AI/ML, Flutter, AWS**
 
@@ -35,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nextjs,javascript,typescript,mongodb,c,c++,java,mysql,django" /><br>
 </div>
 
 <br/>
