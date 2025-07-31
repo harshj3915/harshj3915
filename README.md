@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=EAB4F7&width=500&height=70&duration=2000&lines=Hi+There!;+I'm+Harsh+Kothari;" />
 </h1>
 
-<h3 align="center">A 3rd year student at VIT,Vellore. I am a Passionate coder with an eye for innovation, transforming ideas into elegant solutions with a keystroke.</h3>
+<h3 align="center">A 4th year student at VIT,Vellore. I am a Passionate coder with an eye for innovation, transforming ideas into elegant solutions with a keystroke.</h3>
 
 <br/>
 
